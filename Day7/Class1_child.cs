@@ -28,6 +28,10 @@ namespace Day7
                 base.ParentFunction1();
 
             }
+            public void Display()
+            {
+                Console.Write("This is newly created method");
+            }
 
         }
 
